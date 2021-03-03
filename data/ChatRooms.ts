@@ -2,11 +2,11 @@ export default [{
   id: '1',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u2',
-    name: 'Lukas',
+    name: 'Alexander',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg',
   }],
   lastMessage: {
