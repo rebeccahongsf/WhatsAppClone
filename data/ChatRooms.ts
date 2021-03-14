@@ -18,11 +18,11 @@ export default [{
   id: '2',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u3',
-    name: 'Daniil',
+    name: 'Unknown',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.jpg',
   }],
   lastMessage: {
@@ -34,23 +34,23 @@ export default [{
   id: '3',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u4',
-    name: 'Alex',
+    name: 'Kim',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.png',
   }],
   lastMessage: {
     id: 'm3',
-    content: 'Hi, Vadim.',
+    content: 'Hi, Rebecca.',
     createdAt: '2020-10-02T14:48:00.000Z',
   }
 }, {
   id: '4',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u5',
@@ -66,11 +66,11 @@ export default [{
   id: '5',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u6',
-    name: 'Elon Musk',
+    name: 'Juniper',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/5.jpg',
   }],
   lastMessage: {
@@ -82,7 +82,7 @@ export default [{
   id: '6',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u7',
@@ -98,11 +98,11 @@ export default [{
   id: '7',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u8',
-    name: 'Borja',
+    name: 'Borton',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/7.png',
   }],
   lastMessage: {
@@ -114,7 +114,7 @@ export default [{
   id: '8',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u9',
@@ -130,11 +130,11 @@ export default [{
   id: '9',
   users: [{
     id: 'u1',
-    name: 'Vadim',
+    name: 'Rebecca',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u10',
-    name: 'Angelina Jolie',
+    name: 'Angie',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/9.png',
   }],
   lastMessage: {
