@@ -2,20 +2,20 @@ export default {
 	id: '1',
 	users: [{
 		id: 'u1',
-		name: 'Vadim',
+		name: 'Rebecca',
 		imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
 	}, {
 		id: 'u2',
-		name: 'Lukas',
+		name: 'Alexander',
 		imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg',
 	}],
 	messages: [{
 		id: 'm1',
-		content: 'How are you, Lukas!',
+		content: 'How are you, Alexander!',
 		createdAt: '2020-10-10T12:48:00.000Z',
 		user: {
 			id: 'u1',
-			name: 'Vadim',
+			name: 'Rebecca',
 		},
 	}, {
 		id: 'm2',
@@ -23,7 +23,7 @@ export default {
 		createdAt: '2020-10-03T14:49:00.000Z',
 		user: {
 			id: 'u2',
-			name: 'Lukas',
+			name: 'Alexander',
 		},
 	}, {
 		id: 'm3',
@@ -31,7 +31,7 @@ export default {
 		createdAt: '2020-10-03T14:49:40.000Z',
 		user: {
 			id: 'u2',
-			name: 'Lukas',
+			name: 'Alexander',
 		},
 	}, {
 		id: 'm4',
@@ -39,7 +39,7 @@ export default {
 		createdAt: '2020-10-03T14:50:00.000Z',
 		user: {
 			id: 'u1',
-			name: 'Vadim',
+			name: 'Rebecca',
 		},
 	}, {
 		id: 'm5',
@@ -47,7 +47,7 @@ export default {
 		createdAt: '2020-10-03T14:51:00.000Z',
 		user: {
 			id: 'u1',
-			name: 'Vadim',
+			name: 'Rebecca',
 		},
 	}, {
 		id: 'm6',
@@ -55,7 +55,7 @@ export default {
 		createdAt: '2020-10-03T14:49:00.000Z',
 		user: {
 			id: 'u2',
-			name: 'Lukas',
+			name: 'Alexander',
 		},
 	}, {
 		id: 'm7',
@@ -63,7 +63,7 @@ export default {
 		createdAt: '2020-10-03T14:53:00.000Z',
 		user: {
 			id: 'u1',
-			name: 'Vadim',
+			name: 'Rebecca',
 		},
 	}]
 }
