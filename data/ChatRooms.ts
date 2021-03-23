@@ -54,7 +54,7 @@ export default [{
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg',
   }, {
     id: 'u5',
-    name: 'Vlad',
+    name: 'Thomie',
     imageUri: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg',
   }],
   lastMessage: {
